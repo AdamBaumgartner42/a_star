@@ -10,4 +10,4 @@ Run:
 
 ![Diagram of project](https://video.udacity-data.com/topher/2019/August/5d4a19a8_a-star-code-structure/a-star-code-structure.png)
 
-![Result](https://imgur.com/OM9hli6)
+![Result](https://imgur.com/OM9hli6.png)
